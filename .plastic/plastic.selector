@@ -1,0 +1,4 @@
+repository "Ar Proj 1@Sibato5153@cloud"
+  path "/"
+    br "/main"
+    co "/main"
